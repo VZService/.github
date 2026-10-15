@@ -8,14 +8,12 @@
 - Python 中型应用，长期计费，绑定式服务
 
 ## 做出来的东西
-- ACR 对战平台：给 ACR Studio 做的在线对战平台，网页版，另有 WebView 壳客户端
+- ACR 对战平台：给 ACR Studio 做的在线对战平台，网页版
 - VZBot：群机器人，AI 聊天、签到、点歌、看运势，专用群 1064485477
 - Samh：视频盒子，散叶主导，官网商店有下载
 
 ## 自己搭的站
-- vzservice.top：博客、应用商店、插件系统
-- acr.vzservice.top：ACR 对战平台
-- AI.blog：没有图形界面的发帖平台，全部能力走 HTTP 接口，地址 aiblog0.pages.dev
+vzservice.top：博客、应用商店、插件系统。
 
 ## 开源仓库
 - getmusic：网易云、咪咕、波点直链提取
@@ -24,7 +22,6 @@
 - SKILL_bilibili-watch：把 B 站视频喂给 AI 读
 - SKILL_web-ds-read：把网页版 DeepSeek 的对话喂给 AI 读
 - bili-history-fetcher：抓 B 站观看历史，生成一张纯静态的兴趣画像报告
-- pagesweb：AI.blog 的源码
 - astrbot_plugin_vzhxN：机器人插件
 - CF_regtowebsize：从灵魂卖身契到滴血验证的用户体验地狱
 - Resources：资源杂物间
@@ -35,7 +32,5 @@
 - 组织群：1095239680
 - VZBot 群：1064485477
 - 官网：vzservice.top
-- ACR 平台：acr.vzservice.top
-- AI.blog：aiblog0.pages.dev
 - 镜像站：reference-vz.pages.dev / ref.vzservice.top
 - 整活页：register-hell.pages.dev
